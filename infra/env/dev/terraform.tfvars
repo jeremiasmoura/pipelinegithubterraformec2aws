@@ -1,5 +1,5 @@
-aws_region = "us-east-1"
-imageId = "ami-0583d8c7a9c35822c"
+aws_region = "us-east-2"
+imageId = "ami-037774efca2da0726"
 instanceType = "t2.micro"
 keyName = "chavetelemetria"
 instanceName= "httpWebServer"
