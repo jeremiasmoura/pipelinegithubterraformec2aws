@@ -9,12 +9,12 @@ variable "ec2_name" {
   type        = string
 }
 
-variable "isntance_ami" {
+variable "instance_ami" {
   description = "The Prefix to name the bucket"
   type        = string
 }
 
 variable "instance_type" {
-  description = "The Prefix to name the bucket"
+  description = "The Instance Type Prefix to name the bucket"
   type        = string
 }
