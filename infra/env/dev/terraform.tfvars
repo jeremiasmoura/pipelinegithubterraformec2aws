@@ -1,7 +1,7 @@
 aws_region = "us-east-1"
 imageId = "ami-0583d8c7a9c35822c"
 instanceType = "t2.micro"
-keyName = "chavetelemetria"
+keyName = "chavetelemetria2"
 instanceName= "httpWebServer"
 subnetId= "subnet-070a11bcad1d050cd"
 securityGroupName  = "web-server-sg"
