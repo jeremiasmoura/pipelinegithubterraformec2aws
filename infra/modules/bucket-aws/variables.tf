@@ -8,3 +8,13 @@ variable "bucket_prefix" {
   description = "The Prefix to name the bucket"
   type        = string
 }
+
+variable "bucket_prefix" {
+  description = "The Prefix to name the bucket"
+  type        = string
+}
+
+variable "bucket_prefix" {
+  description = "The Prefix to name the bucket"
+  type        = string
+}
