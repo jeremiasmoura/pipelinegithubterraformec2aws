@@ -4,17 +4,17 @@ variable "region" {
   default     = "us-east-1"
 }
 
-variable "bucket_prefix" {
+variable "ec2_name" {
   description = "The Prefix to name the bucket"
   type        = string
 }
 
-variable "bucket_prefix" {
+variable "isntance_ami" {
   description = "The Prefix to name the bucket"
   type        = string
 }
 
-variable "bucket_prefix" {
+variable "instance_type" {
   description = "The Prefix to name the bucket"
   type        = string
 }
